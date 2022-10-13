@@ -22,4 +22,6 @@ class Solution:
                 break
             q=q.next
             
-        
+  
+alternate solution: copy the next val of node to be deleted and then delete the next node
+    4519 so it will become 4119 then remove 2nd 1
